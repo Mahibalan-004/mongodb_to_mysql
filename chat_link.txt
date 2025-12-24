@@ -1,0 +1,6 @@
+npm install mongoose mysql2
+
+
+
+https://chatgpt.com/share/694b80a4-a8d4-8002-a71f-37bd3daa060d
+
